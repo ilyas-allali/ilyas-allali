@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1B,50:4338CA,100:06B6D4&height=210&section=header&text=ILYAS%20ALLALI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Ilyas Allali banner" />
+<img src="./assets/banner.svg" width="100%" alt="Ilyas Allali banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=22D3EE&center=true&vCenter=true&width=680&lines=Building+AI-powered+products;Full-Stack+Engineering+%7C+Intelligent+Automation;Agentic+Workflows+%7C+RAG+%7C+APIs;1337+Coding+School+%7C+42+Network+%2F+UM6P" alt="Animated introduction" />
+<h3>⚡ AI-powered products · Full-stack systems · Intelligent automation</h3>
 
 <br/>
 
@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=70&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=%3E+initializing+AI+workspace...;%3E+loading+agents+%2B+automation...;%3E+shipping+real-world+products+%E2%9C%93" alt="Terminal boot animation" />
+<code>&gt; initializing AI workspace... &nbsp; &gt; shipping real-world products ✓</code>
 </div>
 
 ### `> whoami`
@@ -140,6 +140,5 @@ An AI assistant platform designed for clinics, restaurants, and real-estate team
 <a href="https://ilyas-allali.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Work-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my work" /></a>
 <a href="mailto:allaliilyas4@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4338CA,100:080B1B&height=100&section=footer" width="100%" alt="Footer wave" />
 
 </div>
